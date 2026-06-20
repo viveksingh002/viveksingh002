@@ -79,6 +79,10 @@
 ## 🔗 Connect with Me
 <p align="center">
   <a href="mailto:viveksingh9876000@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Vivek Singh's Email"/></a>
+
+  <a href="https://komarev.com/ghpvc/?username=viveksingh002">
+    <img src="https://komarev.com/ghpvc/?username=viveksingh002&label=Profile%20views&color=00FFFF&style=flat-square" alt="viveksingh002's profile views" />
+  </a>
 </p>
 
 <picture>
