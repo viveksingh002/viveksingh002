@@ -1,10 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Vivek%20Singh&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Web%20Development%20Enthusiast&descSize=18&descAlignY=55&textBg=false"/>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=viveksingh002">
-    <img src="https://komarev.com/ghpvc/?username=viveksingh002&label=Profile%20views&color=00FFFF&style=flat-square" alt="viveksingh002's profile views" />
-  </a>
-</p>
 
 ## 📌 About Me
 - I am an aspiring full stack developer focused on building modern, scalable web applications. I work with frontend and backend technologies and actively build real-world projects to strengthen my development skills.
